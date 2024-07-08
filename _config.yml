@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "../images/profile.png"
   name             : "Yizhen Yao"
   pronouns         : # example: "she/her"  
   bio              : "An apple a day keeps the doctor away"
