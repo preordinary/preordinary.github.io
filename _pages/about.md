@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I am a second year master's student in [the Department of Computer Science and Engineering at Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/). Prior to that, I received my Bachelor's degree in Computer Science and Engineering at Shanghai Jiao Tong University. My research interests lie in algorithmic studies of large language models and related system-level optimisation.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+Currently, I am fortunate to be mentored by [Prof. Zheng](https://zhengzhenzhe220.github.io/) for some work related to computer vision and federated learning. Now, I am fortunate to be mentored by [Dr. Zuo](https://pfzuo.github.io/homepage/) at Huawei.inc, where I have explored the optimisation of large model inference and training at the system level.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Yizhen Yao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](yzhenyao.cs@gmail.com) / [Github](https://github.com/preordinary) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/preor?spm=1000.2115.3001.5343)
