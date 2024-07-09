@@ -4,10 +4,10 @@ collection: Joint first authorship(first place); Under Review
 permalink: /publication/2023-02-01-paper-title-number-1
 excerpt: 'This paper developed a novel pluggable and lightweight module for No-Reference Image Quality Assessment (NR-IQA), which evaluates the quality of an image against human evaluation criteria without a reference image. '
 date: 2023-02-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+# venue: 'Journal 1'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 * Developed a novel pluggable and lightweight module for No-Reference Image Quality Assessment (NR-IQA), which evaluates the quality of an image against human evaluation criteria without a reference image. 
