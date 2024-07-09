@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second year master's student in [CSE, SJTU](https://www.cs.sjtu.edu.cn/). I am leading the MemArts (Memory Architecture and System) team to build a disaggregated memory and cache layer in the Huawei cloud. I received my Ph.D. degree (advised by Prof. Yu Hua) in Computer Science from Huazhong University of Science and Technology (HUST) in 2019 and was a visiting Ph.D. student (advised by Prof. Yuan Xie) at the University of California, Santa Barbara (UCSB) during 2018-2019. I received a B.E. degree in Computer Science from HUST in 2014.
+I am currently a second year master's student in [CSE, SJTU](https://www.cs.sjtu.edu.cn/). I am supervised by [Prof. Zhenzhe Zheng](https://zhengzhenzhe220.github.io/) and [Researcher Pengfei Zuo](https://pfzuo.github.io/homepage/). Prior to that, I received my Bachelor's degree in Computer Science and Engineering at Shanghai Jiao Tong University. 
 
-My research interests span memory and storage systems, distributed systems, and machine learning systems. I have published 30+ refereed papers in major conferences and journals in the areas of computer systems and architectures, including SOSP, OSDI, MICRO, ASPLOS, FAST, USENIX ATC, VLDB, DAC, etc. I obtained the 2020 ACM China Doctoral Dissertation Award (only two awardees among all computer disciplines across China every year) and the Best Paper Award in FAST 2023.
+I have much experience with LLM algorithm and system, federated learning and computer vision. I have conducted some research in LLM training checkpoint system, which focuses on using multi-level cache for checkpointing and overlapping checkpointing with training process. With this research, one can training LLM model with least checkpoint overhead and gain maximum probability for fault recovery. Moreover, I have conducted research in LLM inference acceleration algorithm, in which we observed some insights when different LLM processing, and proposed a novel skipping-layer algorithm which can skip some unimportant layers when inferring. With this research, one can achieve a significant degree of acceleration during LLM inference with minimal accuracy loss. 
 
-I am a second year master's student in [the Department of Computer Science and Engineering at Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/). I am fortunate to be mentored by [Prof. Zhenzhe Zheng](https://zhengzhenzhe220.github.io/) for some work related to computer vision and federated learning. Now, I am fortunate to be mentored by [Dr. Pengfei Zuo](https://pfzuo.github.io/homepage/) at Huawei. Prior to that, I received my Bachelor's degree in Computer Science and Engineering at Shanghai Jiao Tong University. 
+As an acknowledgment of my contributions, I've had the privilege to finish 3 papers (3 as first/co-first author), file 2 patents (2 as first student author after my supervisor), and currently have 3 first/co-first author papers under review. 
 
 My research interests lie in algorithmic studies of large language models and related system-level optimisation.
 
 You can find my CV here: [Yizhen Yao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto: yzhenyao.cs@gmail.com) / [Github](/preordinary) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/preor?spm=1000.2115.3001.5343)
+Email: [yzhenyao.cs@gmail.com](yzhenyao.cs@gmail.com) / Github: [https://github.com/preordinary](/[preordinary](https://github.com/preordinary)) 
+
+[Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/preor?spm=1000.2115.3001.5343)

@@ -10,6 +10,6 @@ date: 2023-02-01
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-- Developed a novel pluggable and lightweight module for No-Reference Image Quality Assessment (NR-IQA), which evaluates the quality of an image against human evaluation criteria without a reference image. 
-- The proposed module (PLS) compliments existing backbone neural network model solutions by simultaneously extract local and global information and amplifying critical details to improve assessment accuracy. 
-- Conducted tests and evaluations on six NR-IQA benchmark datasets and tested PLS with different backbone models, allows flexible generalization of existing backbone models without significant retraining while achieving competitive results. 
+* Developed a novel pluggable and lightweight module for No-Reference Image Quality Assessment (NR-IQA), which evaluates the quality of an image against human evaluation criteria without a reference image. 
+* The proposed module (PLS) compliments existing backbone neural network model solutions by simultaneously extract local and global information and amplifying critical details to improve assessment accuracy. 
+* Conducted tests and evaluations on six NR-IQA benchmark datasets and tested PLS with different backbone models, allows flexible generalization of existing backbone models without significant retraining while achieving competitive results. 
