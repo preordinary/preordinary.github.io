@@ -3,11 +3,11 @@ main:
   - title: "Academic Experience"
     url: /publications/
 
-#  - title: "Talks"
- #   url: /talks/    
-
   - title: "Industry Experience"
-   url: /teaching/    
+    url: /teaching/  
+
+#  - title: "Talks"
+ #   url: /talks/      
     
 #  - title: "Portfolio"
  #   url: /portfolio/
