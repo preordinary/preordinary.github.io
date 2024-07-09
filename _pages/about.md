@@ -13,4 +13,4 @@ Currently, I am fortunate to be mentored by [Prof. Zhenzhe Zheng](https://zhengz
 
 You can find my CV here: [Yizhen Yao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](yzhenyao.cs@gmail.com) / [Github](https://github.com/preordinary) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/preor?spm=1000.2115.3001.5343)
+[Email](mailto: yzhenyao.cs@gmail.com) / [Github](/preordinary) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/preor?spm=1000.2115.3001.5343)
