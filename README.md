@@ -4,6 +4,8 @@
 
 Academic Pages is a Github Pages template for academic websites.
 
+测试一下上传github
+
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
