@@ -1,10 +1,17 @@
 # main links links
 main:
-  - title: "Academic Experience"
+  - title: "Publications"
     url: /publications/
 
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Academic Experience"
+    url: /academicExp/
+
   - title: "Industry Experience"
-    url: /teaching/  
+    url: /industryExp/
+
 
 #  - title: "Talks"
  #   url: /talks/      
