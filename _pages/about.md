@@ -18,13 +18,15 @@ Developing systems for accelerating the training of large models by using multi-
 ### Multimodel learning
 Investgating vision-language models for the opportunities in improving throughput.
 
-## Contact
+## Contact Me
 Email: [yzhenyao.cs@gmail.com](yzhenyao.cs@gmail.com)
 
-Github: [https://github.com/preordinary](/[preordinary](https://github.com/preordinary)) 
+[Github](/[preordinary](https://github.com/preordinary)) 
 
 [Wechat](../images/wechat.jpg)
 
 [CSDN](https://blog.csdn.net/preor?spm=1000.2115.3001.5343)
+
+[LinkedIn](https://www.linkedin.com/in/yizhen-yao-b6bb28317/)
 
 [CV](../assets/Curriculum_Vitae.pdf)
