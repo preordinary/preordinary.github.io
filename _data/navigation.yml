@@ -12,6 +12,12 @@ main:
   - title: "Industry Experience"
     url: /industryExp/
 
+  # - title: "Award"
+  #   url: /award/
+    
+  # - title: "Extra Curricular"
+  #   url: /extracurricular/  
+
 
 #  - title: "Talks"
  #   url: /talks/      

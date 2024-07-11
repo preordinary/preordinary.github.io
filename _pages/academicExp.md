@@ -5,8 +5,7 @@ permalink: /academicExp/
 author_profile: true
 ---
 
-No-Reference Image Quality Assessment
-======    
+## No-Reference Image Quality Assessment
 * Supervised by Prof. Zhenzhe Zheng
 * Joint first authorship(first place); Under Review
 * Keywords: Computer Vision; Image Quality Assessment
@@ -14,8 +13,7 @@ No-Reference Image Quality Assessment
 * * The proposed module (PLS) compliments existing backbone neural network model solutions by simultaneously extract local and global information and amplifying critical details to improve assessment accuracy. 
 * * Conducted tests and evaluations on six NR-IQA benchmark datasets and tested PLS with different backbone models, allows flexible generalization of existing backbone models without significant retraining while achieving competitive results. 
 
-Domain Generalization in Federated Learning      
-======
+## Domain Generalization in Federated Learning      
 * Supervised by Prof. Zhenzhe Zheng
 * Joint first authorship(second place); Under Review
 * Keywords: Federated Learning; Domain Generalization
@@ -24,8 +22,7 @@ Domain Generalization in Federated Learning
 * * Utilized contrastive learning for separate learning of domain-invariant and domain-specific features, designed one reconstruction loss functions for preserving information among features. 
 * * Conducted tests and experiments on various benchmarks, demonstrating outstanding performance and even surpass most centralized DG methods. 
 
-Sublayer Skipping for Accelerating LLM Inference      
-======
+## Sublayer Skipping for Accelerating LLM Inference      
 * Supervised by Research Scientist Pengfei Zuo
 * Joint first authorship(second place); Submitted to NeurIPS, Under Review
 * Keywords: LLM Inference; Inference Acceleration; Layer-wise Skipping
@@ -33,8 +30,7 @@ Sublayer Skipping for Accelerating LLM Inference
 * * Performed comprehensive analysis on the importance of Attention and Feed Forward sublayers in transformer layers across a variety of models to devise the skipping algorithm. 
 * * Contributed a training-free, auto-adaptive, sublayer-wise skipping method for both the prefilling and decoding phases of LLMs, demonstrating favorable inference performance over the baselines on various benchmarks and datasets. 
 
-Multi-level Checkpoint Cache for LLM Training   
-======
+## Multi-level Checkpoint Cache for LLM Training   
 * Supervised by Research Scientist Pengfei Zuo
 * First authorship; Planned to submit to FAST’25
 * Keywords: LLM Training; In-Memory Checkpoint; Fast Failure Recovery

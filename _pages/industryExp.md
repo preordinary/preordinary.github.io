@@ -5,8 +5,7 @@ permalink: /industryExp/
 author_profile: true
 ---
 
-Huawei Cloud Computing Technology Co., Ltd.                                       
-======
+## Huawei Cloud Computing Technology Co., Ltd.                                       
 * Cloud Storage Innovation Lab Intern                                     
 * * Implemented the above In-Memory Checkpoint mechanism into the company’s deep learning training framework Mindspore. 
 * * Conducted LLM training and checkpoint testing through bash scripts and parallel processing. 
