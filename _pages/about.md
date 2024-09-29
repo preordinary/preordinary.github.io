@@ -14,7 +14,7 @@ I am currently a third year master's student in [CSE, SJTU](https://www.cs.sjtu.
 I have a diverse research background spanning multiple areas. In the early phase of my graduate studies at SJTU, I focused on machine learning algorithms, particularly federated learning and computer vision. Later, during my internship at Huawei, I shifted towards system-level optimization of large language models (LLMs), contributing to advancements in training checkpoint acceleration and inference layer skipping acceleration.
 
 ## Research Interests
-My long-term research goal is to build acceleration and optimization systems for various deep learning algorithms, including large language models, Bayesian neural networks, and generative multimodal models. My current research interests focus on LLM training and inference optimization, as well as deployment and tuning of LLM agents and thought chains.
+My long-term research goal is to build acceleration and optimization systems for various deep learning algorithms, including Large Language Models (LLLM), Bayesian Neural Networks, and Multimodal LLM. My current research interests focus on LLMs training and inference optimization, as well as deployment and tuning of LLM agents and thought chains.
 
 ## Contact Me
 Email: [yzhenyao.cs@gmail.com](yzhenyao.cs@gmail.com)
