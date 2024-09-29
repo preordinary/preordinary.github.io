@@ -9,14 +9,12 @@ redirect_from:
 
 ## Bio
 
-I am currently a second year master's student in [CSE, SJTU](https://www.cs.sjtu.edu.cn/). I am supervised by [Prof. Zhenzhe Zheng](https://zhengzhenzhe220.github.io/) and [Researcher Pengfei Zuo](https://pfzuo.github.io/homepage/). Prior to that, I received my Bachelor's degree in Computer Science and Engineering at Shanghai Jiao Tong University. I am very grateful to my two supervisors. They taught me how to do scientific research and how to cultivate my own scientific research taste.
+I am currently a second year master's student in [CSE, SJTU](https://www.cs.sjtu.edu.cn/). I am supervised by [Prof. Zhenzhe Zheng](https://zhengzhenzhe220.github.io/) and [Researcher Pengfei Zuo](https://pfzuo.github.io/homepage/). Prior to that, I received my Bachelor's degree in Computer Science and Engineering at Shanghai Jiao Tong University. 
+
+I have a diverse research background spanning multiple areas. In the early phase of my graduate studies at SJTU, I focused on machine learning algorithms, particularly federated learning and computer vision. Later, during my internship at Huawei, I shifted towards system-level optimization of large language models (LLMs), contributing to advancements in training checkpoint acceleration and inference layer skipping acceleration.
 
 ## Research Intersts
-### Machine Learning System
-Developing systems for accelerating the training of large models by using multi-level checkpoint cache.
-
-### Multimodel learning
-Investgating vision-language models for the opportunities in improving throughput.
+My long-term research goal is to build acceleration and optimization systems for various deep learning algorithms, including large language models, Bayesian neural networks, and generative multimodal models. My current research interests focus on LLM training and inference optimization, as well as deployment and tuning of LLM agents and thought chains.
 
 ## Contact Me
 Email: [yzhenyao.cs@gmail.com](yzhenyao.cs@gmail.com)
