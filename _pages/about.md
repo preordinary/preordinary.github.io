@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Bio
+## About Me
 
 I am currently a third year master's student in [CSE, SJTU](https://www.cs.sjtu.edu.cn/). I am supervised by [Prof. Zhenzhe Zheng](https://zhengzhenzhe220.github.io/) and [Researcher Pengfei Zuo](https://pfzuo.github.io/homepage/). Prior to that, I received my Bachelor's degree in Computer Science and Engineering at Shanghai Jiao Tong University. 
 
