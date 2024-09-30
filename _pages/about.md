@@ -16,15 +16,4 @@ I have a diverse research background spanning multiple areas. In the early phase
 # Research Interests
 My long-term research goal is to build acceleration and optimization systems for various deep learning algorithms, including Large Language Models (LLM), Bayesian Neural Networks, and so on. My current research interests focus on LLMs training and inference optimization, as well as deployment and tuning of LLM agents and Chains of Thought (CoT).
 
-## Contact Me
-[Email](yzhenyao.cs@gmail.com)
-
-[Github](/[preordinary](https://github.com/preordinary)) 
-
-[Wechat](../images/wechat.jpg)
-
-[CSDN](https://blog.csdn.net/preor?spm=1000.2115.3001.5343)
-
-[LinkedIn](https://www.linkedin.com/in/yizhen-yao-b6bb28317/)
-
 [CV](../assets/Curriculum_Vitae.pdf)
