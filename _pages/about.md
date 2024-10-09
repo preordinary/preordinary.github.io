@@ -16,4 +16,4 @@ I have a compound research experiment spanning areas of ML algorithm and operati
 # Research Interests
 My long-term research goal is to build systems of acceleration and optimization for various deep learning algorithms, including Large Language Models (LLM), Multimodal Large Language Model (MLLM), and so on. My current research interests focus on LLMs training and inference optimization, as well as deployment and tuning of LLM agents and Chains of Thought (CoT).
 
-[CV](../assets/CV_YAO_SJTU.pdf)
+[CV](../assets/Curriculum_Vitae.pdf)
